@@ -1,5 +1,5 @@
 ![](logo/brick-final-clearbg-with-text.svg)
-
+ 
 `brick` is a Haskell terminal user interface (TUI) programming toolkit.
 To use it, you write a pure function that describes how your user
 interface should be drawn based on your current application state and
